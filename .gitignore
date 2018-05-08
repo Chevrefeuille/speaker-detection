@@ -1,0 +1,6 @@
+# models and data
+models/
+data/
+
+# ide
+.vscode/
